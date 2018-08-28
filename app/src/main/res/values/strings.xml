@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FixStore</string>
+
+    <string-array name="positions">
+    <item>sbak</item>
+    <item>n2ash</item>
+    <item>khrba2y</item>
+    <item>nagar </item>
+    <item>mblat </item>
+    </string-array>
+</resources>
